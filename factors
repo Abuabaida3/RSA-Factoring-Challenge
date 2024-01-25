@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/bash
 FILE=$1
 while read NUMBERS;
 do
